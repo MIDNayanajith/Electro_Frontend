@@ -10,6 +10,7 @@ function Logo() {
       <a href="/" className="logo d-flex align-items-center">
         {/* <img src="" alt="Logo " /> */}
         <span className="d-none d-lg-block">NeonTech</span>
+        {/* <img src={logo} alt="user" className="avtar" /> */}
       </a>
       <i
         className="bi bi-list toggle-sidebar-btn"

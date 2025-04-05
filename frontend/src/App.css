@@ -1,7 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400,500;600;700;800;900;1000&family=Roboto:wght@0,100;300;400;500;700;900&display=swap");
 
 :root {
-  scroll-behavior: smooth;
   --primary: #4154f1;
   --second: #717ff5;
   --bgColor: #f6f9ff;
@@ -20,7 +19,7 @@ body {
 }
 
 a {
-  color: #4154f1;
+  /* color: #4154f1; */
   text-decoration: none;
   cursor: pointer;
 }
